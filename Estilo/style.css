@@ -34,7 +34,7 @@ main {
 
 /*Centralizando*/
 section#telefone {
-    background-image: url('../imagens/frame-iphone.png');
+    background: url('../imagens/frame-iphone.png');
     background-repeat: no-repeat;
     width: 311px;
     height: 620px;
